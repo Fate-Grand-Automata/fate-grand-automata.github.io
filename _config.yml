@@ -4,9 +4,9 @@ baseurl: /Fate-Grand-Automata
 name: Fate/Grand Automata
 description: Auto-battle app for Fate/Grand Order Android
 author: Mathew Sachin
-url: "https://MathewSachin.github.io/Fate-Grand-Automata"
+url: "https://fate-grand-automata.github.io/Fate-Grand-Automata"
 
-github: "https://github.com/MathewSachin/Fate-Grand-Automata"
+github: "https://github.com/Fate-Grand-Automata/FGA"
 
 exclude: ["Gemfile", "Gemfile.lock"]
 
